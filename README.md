@@ -80,6 +80,3 @@ Displays feature contributions to each principal component.
 - PC1 and PC2 together explain approximately **96%** of the total variance.
 - PCA successfully reduced the dimensional complexity while preserving most of the information.
 
-
-```bash
-git clone <your-repository-link>
